@@ -1,0 +1,222 @@
+[
+  {
+    "id": "tech-001",
+    "category": "Technique",
+    "title": "G Major Scale Run",
+    "instruction": "Play the G major scale up and down the neck for 2 minutes. Focus on clean, even notes.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": "G Major",
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "tech-002",
+    "category": "Technique",
+    "title": "Alternate Picking Drill",
+    "instruction": "Practice alternate picking on a single string at 80 BPM. Keep each note even and consistent.",
+    "requiredBpm": 80,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": true,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "tech-003",
+    "category": "Technique",
+    "title": "Chromatic Exercise",
+    "instruction": "Play a chromatic exercise (1-2-3-4 pattern) across all 6 strings, ascending and descending.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "tech-004",
+    "category": "Technique",
+    "title": "Hammer-Ons & Pull-Offs",
+    "instruction": "Practice hammer-ons and pull-offs on the high E string. Focus on clarity — each note should ring cleanly.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "tech-005",
+    "category": "Technique",
+    "title": "Chord Transition Drill",
+    "instruction": "Cycle through C, G, D, and Em chord transitions. Aim for a clean switch with no buzzing.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "rhythm-001",
+    "category": "Rhythm & Timing",
+    "title": "Metronome Strumming",
+    "instruction": "Strum a basic chord progression along to a metronome at 70 BPM. Focus purely on locking in with the beat.",
+    "requiredBpm": 70,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": true,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "rhythm-002",
+    "category": "Rhythm & Timing",
+    "title": "Down-Up Strumming",
+    "instruction": "Practice a consistent down-up strumming pattern for 2 minutes. Keep your wrist loose and the rhythm even.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "rhythm-003",
+    "category": "Rhythm & Timing",
+    "title": "Clap the Rhythm",
+    "instruction": "Set the metronome to 80 BPM. Clap or mute-strum to match the beat precisely for 1 minute. Then double the subdivisions.",
+    "requiredBpm": 80,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": true,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "rhythm-004",
+    "category": "Rhythm & Timing",
+    "title": "BPM Climb",
+    "instruction": "Start at 60 BPM. Every 30 seconds, increase by 5 BPM. See how high you can go while keeping clean strums.",
+    "requiredBpm": 60,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": true,
+    "durationSeconds": 180,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "rhythm-005",
+    "category": "Rhythm & Timing",
+    "title": "Sync Chord Changes",
+    "instruction": "Change chords precisely on the beat. Use Em to Am. Every chord change must land exactly on beat 1.",
+    "requiredBpm": 70,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": true,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "chords-001",
+    "category": "Chords & Harmony",
+    "title": "Learn a New Chord",
+    "instruction": "Look up a chord you've never played before. Learn its shape, strum it slowly, and try to memorize the fingering.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "chords-002",
+    "category": "Chords & Harmony",
+    "title": "Barre Chord Practice",
+    "instruction": "Practice F and Bm barre chords. Press firmly and strum — each string must ring clearly.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "chords-003",
+    "category": "Chords & Harmony",
+    "title": "I–V–vi–IV Progression",
+    "instruction": "Play the I–V–vi–IV progression in the key of G: G, D, Em, C. Repeat and keep time.",
+    "requiredBpm": 70,
+    "requiredKeyOrScale": "G Major",
+    "isMetronomeRequired": true,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "chords-004",
+    "category": "Chords & Harmony",
+    "title": "Open to Barre Switch",
+    "instruction": "Alternate between an open G chord and a Bm barre chord. Focus on fast, clean transitions.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "ear-001",
+    "category": "Ear Training",
+    "title": "Replicate a Melody",
+    "instruction": "Hum or recall a simple melody (like Happy Birthday). Try to find and play each note on your guitar by ear.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "ear-002",
+    "category": "Ear Training",
+    "title": "Tune by Ear",
+    "instruction": "Without a tuner, try to tune your guitar to itself: fret the 5th fret and match it to the open string above.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": null,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "ear-003",
+    "category": "Ear Training",
+    "title": "Major vs. Minor",
+    "instruction": "Play a major chord, then its minor version (e.g., A major then A minor). Notice the difference. Repeat for 3 different roots.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  },
+  {
+    "id": "creative-001",
+    "category": "Creativity",
+    "title": "E Minor Improvisation",
+    "instruction": "Improvise freely for 2 minutes in the key of E minor. Don't overthink it — just play what feels right.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": "E Minor",
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "creative-002",
+    "category": "Creativity",
+    "title": "Write a 4-Chord Progression",
+    "instruction": "Create your own 4-chord progression using any chords you know. Play it until it sounds musical.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner", "Intermediate"]
+  },
+  {
+    "id": "creative-003",
+    "category": "Creativity",
+    "title": "3-Note Riff",
+    "instruction": "Invent a riff using only 3 notes. Repeat it with rhythm variations — try fast, slow, syncopated.",
+    "requiredBpm": null,
+    "requiredKeyOrScale": null,
+    "isMetronomeRequired": false,
+    "durationSeconds": 120,
+    "skillLevels": ["Beginner"]
+  }
+]
